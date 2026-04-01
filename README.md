@@ -31,6 +31,8 @@ This prototype outlines a system designed to:
 
 ## Architecture Diagram
 
+![Architecture Diagram](architecture-diagram.png)
+
 ```
 Data Sources → Ingestion → Cloud Platform → AI Engine → Applications → Users
 ```
